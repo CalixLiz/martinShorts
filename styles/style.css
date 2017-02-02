@@ -1,0 +1,13 @@
+*{
+	box-sizing: border-box;
+}
+
+h1{
+	font-family: Impact;
+	font-size: 57px;
+
+}
+
+img{
+max-width: 100%;
+}
